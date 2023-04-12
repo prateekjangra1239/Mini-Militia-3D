@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jester's Jetpack
+* source:	https://sketchfab.com/3d-models/jesters-jetpack-58ca59e3404f41f8981a90c0c8257ddd
+* author:	Lisp (https://sketchfab.com/Lisp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jester's Jetpack" (https://sketchfab.com/3d-models/jesters-jetpack-58ca59e3404f41f8981a90c0c8257ddd) by Lisp (https://sketchfab.com/Lisp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
