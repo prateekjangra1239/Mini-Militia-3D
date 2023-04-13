@@ -58,4 +58,14 @@ public class PlayerShooting_ArmHandler : MonoBehaviour
 		}
 		else return;
 	}
+	
+	// bool (GROUNDED)
+	//bool isGrounded()
+	//{
+	//	if (Physics.CheckSphere(transform.position, 0.15f, groundMask))
+	//	{
+	//		return true;
+	//	}
+	//	return false;
+	//}
 }

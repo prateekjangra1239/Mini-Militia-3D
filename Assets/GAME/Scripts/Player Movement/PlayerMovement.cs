@@ -71,7 +71,13 @@ public class PlayerMovement : MonoBehaviour
 		
 		if (isGrounded())
 		{
+			//anim.SetBool("Fly", false);
 			anim.SetFloat("Blend", Mathf.Abs(movement.x));
+		}
+		else
+		{
+			anim.SetFloat("Blend", 0);
+			//anim.SetBool("Fly", true);
 		}
 	}
 	
